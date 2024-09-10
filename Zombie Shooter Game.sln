@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Shooter Game", "Zombie Shooter Game\Zombie Shooter Game.csproj", "{625A50CC-0CC1-47BF-9A78-3750F8AA619A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625A50CC-0CC1-47BF-9A78-3750F8AA619A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625A50CC-0CC1-47BF-9A78-3750F8AA619A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625A50CC-0CC1-47BF-9A78-3750F8AA619A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625A50CC-0CC1-47BF-9A78-3750F8AA619A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86D6803D-2655-4092-A82A-9DDF02633990}
+	EndGlobalSection
+EndGlobal
